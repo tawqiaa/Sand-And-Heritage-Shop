@@ -253,64 +253,6 @@ nav {
 }
 
 
-/*--------------------- Start shop ---------------------*/
-.shop {
-    width: 100%;
-    padding: 25px;
-    height: 100vh;
-    background-color: var(--white-color);
-}
-
-.shop .container {
-    width: 100%;
-    height: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-
-.shop .container .products-box {
-    width: 100%;
-    height: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    overflow: hidden;
-    margin: 20px;
-}
-
-.shop .container .product {
-    background-color: #4a3f353f;
-    backdrop-filter: blur(13px);
-    min-width: 300px;
-    height: 100%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 10px;
-    justify-content: center;
-    border-radius: 25px;
-}
-
-.shop .container .product .img-box {
-    width: 100%;
-    height: 100%;
-    overflow: hidden;
-}
-
-.shop .container .product .img-box img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-}
-
-
-
-
-
-
-
-
 
 
 
